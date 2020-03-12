@@ -7,4 +7,3 @@ dependencies:
   - bowtie2
   - samtools
   - bedtools
-  - gnuplot
