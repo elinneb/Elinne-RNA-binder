@@ -1,0 +1,4 @@
+curl -L https://ndownloader.figshare.com/files/22319442 -o HL.fastq.gz
+curl -L https://ndownloader.figshare.com/files/22319475 -o LL.fastq.gz
+curl -L https://ndownloader.figshare.com/files/22319658 -o ATX.fasta
+curl -L https://ndownloader.figshare.com/files/22319661 -o bac_rRNA.fasta
