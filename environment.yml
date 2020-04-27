@@ -11,3 +11,4 @@ dependencies:
   - trimmomatic
   - fastqc
   - seqtk
+  - kallisto
