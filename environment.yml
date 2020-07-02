@@ -12,3 +12,4 @@ dependencies:
   - fastqc
   - seqtk
   - kallisto
+  - spades
